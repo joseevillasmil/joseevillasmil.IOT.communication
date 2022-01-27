@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Josee\\source\\repos\\ConsoleApp1\\joseevillasmil.IOT.Communication\\joseevillasmil.IOT.Communication.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Josee\\source\\repos\\ConsoleApp1\\joseevillasmil.IOT.Communication\\joseevillasmil.IOT.Communication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Josee\\source\\repos\\ConsoleApp1\\joseevillasmil.IOT.Communication\\joseevillasmil.IOT.Communication.csproj",
+        "projectName": "joseevillasmil.IOT.Communication",
+        "projectPath": "C:\\Users\\Josee\\source\\repos\\ConsoleApp1\\joseevillasmil.IOT.Communication\\joseevillasmil.IOT.Communication.csproj",
+        "packagesPath": "C:\\Users\\Josee\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Josee\\source\\repos\\ConsoleApp1\\joseevillasmil.IOT.Communication\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Josee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://softlandchile.pkgs.visualstudio.com/_packaging/Softland/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.linux-arm",
+              "version": "[3.1.9, 3.1.9]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.linux-arm",
+              "version": "[3.1.9, 3.1.9]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-arm": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

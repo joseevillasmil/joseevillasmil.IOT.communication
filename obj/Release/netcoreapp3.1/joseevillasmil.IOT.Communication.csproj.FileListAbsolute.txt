@@ -1,0 +1,8 @@
+C:\Users\Josee\source\repos\ConsoleApp1\joseevillasmil.IOT.Communication\bin\Release\netcoreapp3.1\joseevillasmil.IOT.Communication.deps.json
+C:\Users\Josee\source\repos\ConsoleApp1\joseevillasmil.IOT.Communication\bin\Release\netcoreapp3.1\joseevillasmil.IOT.Communication.dll
+C:\Users\Josee\source\repos\ConsoleApp1\joseevillasmil.IOT.Communication\bin\Release\netcoreapp3.1\joseevillasmil.IOT.Communication.pdb
+C:\Users\Josee\source\repos\ConsoleApp1\joseevillasmil.IOT.Communication\obj\Release\netcoreapp3.1\joseevillasmil.IOT.Communication.AssemblyInfoInputs.cache
+C:\Users\Josee\source\repos\ConsoleApp1\joseevillasmil.IOT.Communication\obj\Release\netcoreapp3.1\joseevillasmil.IOT.Communication.AssemblyInfo.cs
+C:\Users\Josee\source\repos\ConsoleApp1\joseevillasmil.IOT.Communication\obj\Release\netcoreapp3.1\joseevillasmil.IOT.Communication.csproj.CoreCompileInputs.cache
+C:\Users\Josee\source\repos\ConsoleApp1\joseevillasmil.IOT.Communication\obj\Release\netcoreapp3.1\joseevillasmil.IOT.Communication.dll
+C:\Users\Josee\source\repos\ConsoleApp1\joseevillasmil.IOT.Communication\obj\Release\netcoreapp3.1\joseevillasmil.IOT.Communication.pdb
